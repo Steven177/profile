@@ -77,7 +77,26 @@ a:hover{
   margin:20px;
 }
 
+#sidebar{
+  position: fixed;
+  width: 150px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #384047
+}
 
+.icon_prep{
+  margin: 20px;
+  font-size: 50px;
+}
+.icon_prep:hover{
+  color: white;
+}
+
+#page-content {
+  margin-left: 300px;
+}
 
 
 
